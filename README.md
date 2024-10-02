@@ -73,5 +73,5 @@ Performance Insights: Sales performance was broken down by region, revealing opp
 - [Email](Aman132sharma@gmail.com)
 
 
-
+![Banner](https://github.com/CARNAGE1010/CARNAGE1010/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 
