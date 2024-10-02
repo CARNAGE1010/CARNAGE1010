@@ -1,11 +1,11 @@
 ![Banner](https://github.com/CARNAGE1010/CARNAGE1010/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-## 🌐 About Me:
+🌐 About Me:
 I'm an aspiring **Data Analyst** with a passion for turning raw data into meaningful insights. With a strong foundation in  Power BI, Excel,SQL and Python I enjoy solving real-world problems through data analysis. I'm constantly looking for opportunities to apply my skills and continue learning.
 
 - 🎓 **Degree**: Bachelor's in Computer Science
 - 💼 **Looking for**: Entry-level opportunities in Data Analytics
-- 🌱 **Currently Learning**: Advanced SQL, Data Visualization, Python for Data Science, and DAX
+- 🌱 **Currently Learning**: Advanced SQL, Data Visualization, Python for Data Science.
 
 ---
 
