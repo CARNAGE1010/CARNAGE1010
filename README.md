@@ -25,11 +25,11 @@ I'm an aspiring **Data Analyst** with a passion for turning raw data into meanin
    - **Description**: This project focuses on creating insightful visualizations for banking data to analyze customer transactions, account balances, loan histories, and other key financial metrics. Using SQL for data extraction and transformation, and Power BI for building interactive and real-time dashboards, the project delivers actionable insights to stakeholders, helping drive data-driven decisions within the banking sector.
    - **Technologies**: Power BI, SQL, Excel
    - **Abbreviations Used**:
-      - revPR: Revenue Per Room
-      - DURN: Duration
-      - DSRN: Days Since Registration Number
+      - revPR: Revenue Per Available Room
+      - DURN: Daily Utilized Room Nights
+      - DSRN: Days Sellable Room Nights
       - ADR: Average Daily Rate
-      - DBRN: Days Between Registration Number
+      - DBRN: Days Booked Room Nights
 
 These abbreviations are typically used in hospitality or business analytics to track various metrics related to performance and customer behavior
 
