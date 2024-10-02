@@ -1,3 +1,5 @@
+![Banner](https://github.com/CARNAGE1010/CARNAGE1010/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right"alt"coding"width"400"src="">
