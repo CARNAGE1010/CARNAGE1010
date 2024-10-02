@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right"alt"coding"width"400"src="">
 
 - 🔭 I completed my project on [Banking Domain Data Visualization](https://app.powerbi.com/view?r=eyJrIjoiNmE0NDBkNGYtZmQ4Ni00ZDI2LWI5MGUtMGE1Njg4N2JjODI5IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 
