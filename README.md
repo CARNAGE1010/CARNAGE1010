@@ -45,10 +45,8 @@ The analysis identifies trends, highlights regional strengths and weaknesses, an
 
 ### 3. [Goods Company Sales Insights](https://app.powerbi.com/groups/me/reports/7add3977-2f68-481f-b39a-6d16ff4821f3/858255aedc29536d91a8?experience=power-bi)
    - **Description**:This project focused on analyzing sales and profit data for a goods company to identify key trends, optimize business strategies, and improve profitability. The analysis provided insights into sales performance across different regions, customer segments, and product categories. Interactive dashboards were built to give management real-time visibility into key metrics such as revenue growth, profit margins, and product performance.
-   - 
-Profit Analysis: Identified high-profit products and underperforming categories, helping to refine inventory and pricing strategies.
-
-Performance Insights: Sales performance was broken down by region, revealing opportunities for growth in underperforming markets. The analysis also highlighted seasonal trends and peak sales periods.
+   - Profit Analysis: Identified high-profit products and underperforming categories, helping to refine inventory and pricing strategies.
+   - Performance Insights: Sales performance was broken down by region, revealing opportunities for growth in underperforming markets. The analysis also highlighted seasonal trends and peak sales periods.
 
    - **Technologies**: SQL , Power BI
 ---
