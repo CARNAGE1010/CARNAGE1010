@@ -37,8 +37,7 @@ These abbreviations are typically used in hospitality or business analytics to t
 
 ### 2. [Hospitality Regional Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWRiMjFhYWMtZGRmMi00OGFlLTljMDctMjEyMGNlYzM0NmU4IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
    - **Description**: This project focuses on analyzing sales performance across various regions within the hospitality industry. By leveraging SQL for data extraction and transformation, and Power BI for dynamic visualizations, the project provides a comprehensive view of key metrics such as revenue, occupancy rates, average daily rates (ADR), and customer satisfaction scores.
-
-The analysis identifies trends, highlights regional strengths and weaknesses, and offers actionable insights to optimize sales strategies and enhance guest experiences. Interactive dashboards allow stakeholders to explore data by region, enabling data-driven decisions to drive growth and profitability in the competitive hospitality landscape.
+   - The analysis identifies trends, highlights regional strengths and weaknesses, and offers actionable insights to optimize sales strategies and enhance guest experiences. Interactive dashboards allow stakeholders to explore data by region, enabling data-driven decisions to drive growth and profitability in the competitive hospitality landscape.
      
    - **Technologies**: SQL, Excel, Power BI
 ---
